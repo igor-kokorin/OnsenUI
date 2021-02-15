@@ -1,3 +1,8 @@
+IMPORTANT!!!
+
+Please note that this package has been forked from https://github.com/OnsenUI/OnsenUI
+
+The motivation for the fork was to fix issue that surfaced when using this package with react-snap.
 
 <p align="center"><a href="https://onsen.io/" target="_blank"><img width="140" src="https://onsenui.github.io/art/logos/onsenui-logo-1.png"></a></p>
 
