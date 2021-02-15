@@ -37,7 +37,7 @@ class BaseDialog extends React.Component {
   }
 
   hide() {
-    this.node.firstChild.hide();
+    this.node.firstChild && this.node.firstChild.hide();
   }
 
   componentDidMount() {
