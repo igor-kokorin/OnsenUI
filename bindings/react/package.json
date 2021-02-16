@@ -1,5 +1,5 @@
 {
-  "name": "react-onsenui",
+  "name": "@igor-kokorin/react-onsenui",
   "version": "1.11.2",
   "description": "Onsen UI - React Components for Hybrid Cordova/PhoneGap Apps with Material Design and iOS UI components",
   "scripts": {
